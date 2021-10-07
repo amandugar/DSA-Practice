@@ -12,8 +12,7 @@
   - [Find all the Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [X] Merge two sorted Arrays without extra space
   **Optimal Method** - Gap Method
-  ```
-  C++
+  ```C++
   // Merging two sorted arrays with O(1) extra space
   // Function to find next gap.
   
