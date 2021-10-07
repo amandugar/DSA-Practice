@@ -78,7 +78,7 @@
   **Similar Questions**  
   - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)  
   - [Pascal's Triangle 2](https://leetcode.com/problems/pascals-triangle-ii)  
-- [ ] Next Permutation  
-- [ ] Inversion of Array (Using Merge Sort)   
+- [X] Next Permutation  
+- [X] Inversion of Array (Using Merge Sort)   
 - [ ] Stock Buy and Sell   
 - [ ] Rotate Matrix   
