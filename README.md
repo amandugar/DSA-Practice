@@ -2,16 +2,16 @@
 
 ## Day 1
 
-- [X] [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
+- [X] [Sort an array of 0’s 1’s 2’s without using extra space or sorting algo](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)  
   **Similar Questions**
-  - [Sort Colors](https://leetcode.com/problems/sort-colors/) 
+  - [Sort Colors](https://leetcode.com/problems/sort-colors/)   
 - [X] Repeat and Missing Number
   **Similar Questions**
-  - [Missing Number](https://leetcode.com/problems/missing-number/)
-  - [Repeating Number](https://leetcode.com/problems/find-the-duplicate-number/)
-  - [Find all the Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
-- [X] Merge two sorted Arrays without extra space
-  **Optimal Method** - Gap Method
+  - [Missing Number](https://leetcode.com/problems/missing-number/)  
+  - [Repeating Number](https://leetcode.com/problems/find-the-duplicate-number/)   
+  - [Find all the Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)  
+- [X] Merge two sorted Arrays without extra space  
+  **Optimal Method** - Gap Method  
   ```C++
   // Merging two sorted arrays with O(1) extra space
   // Function to find next gap.
@@ -64,21 +64,21 @@
     printf("\n");
     return 0;
   } ```
-- [X] Kadane’s Algorithm
-- [X] Merge Overlapping Subintervals
-- [X] Find the duplicate in an array of N+1 integers. 
+- [X] Kadane’s Algorithm    
+- [X] Merge Overlapping Subintervals  
+- [X] Find the duplicate in an array of N+1 integers.   
 
 
 
 
 ## Day 2
 
-- [X] Set Matrix Zeros
-- [X] Pascal Triangle
-  **Similar Questions**
-  - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
-  - [Pascal's Triangle 2](https://leetcode.com/problems/pascals-triangle-ii)
-- [ ] Next Permutation
-- [ ] Inversion of Array (Using Merge Sort) 
-- [ ] Stock Buy and Sell 
-- [ ] Rotate Matrix 
+- [X] Set Matrix Zeros  
+- [X] Pascal Triangle  
+  **Similar Questions**  
+  - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)  
+  - [Pascal's Triangle 2](https://leetcode.com/problems/pascals-triangle-ii)  
+- [ ] Next Permutation  
+- [ ] Inversion of Array (Using Merge Sort)   
+- [ ] Stock Buy and Sell   
+- [ ] Rotate Matrix   
