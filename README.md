@@ -67,3 +67,15 @@
 - [X] Kadane’s Algorithm
 - [X] Merge Overlapping Subintervals
 - [X] Find the duplicate in an array of N+1 integers. 
+
+
+
+
+## Day 2
+
+- [X] Set Matrix Zeros
+- [ ] Pascal Triangle
+- [ ] Next Permutation
+- [ ] Inversion of Array (Using Merge Sort) 
+- [ ] Stock Buy and Sell 
+- [ ] Rotate Matrix 
